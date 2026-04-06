@@ -1,3 +1,5 @@
+Written by Usman Haider and installation instrunctions for Big Data fromework in R
+
 # RStudio and R installation 
 
 Download Open Source License RStudio Desktop
