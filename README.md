@@ -1,3 +1,5 @@
+Intallation of Hadoop and Hive Installation Instrunction by Usman Haider for Big Data Book
+
 # RStudio and R installation 
 
 Download Open Source License RStudio Desktop
