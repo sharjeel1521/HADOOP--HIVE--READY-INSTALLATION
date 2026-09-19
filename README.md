@@ -1,4 +1,8 @@
+
+
 # RStudio and R installation 
+
+Developed by Usman Haider on installation of Big Data Setup for Fundamental of Big data Book
 
 Download Open Source License RStudio Desktop
 
